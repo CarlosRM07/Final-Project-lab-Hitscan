@@ -1,10 +1,10 @@
 # Final Project: Hitscan
 
 ## Repository
-[<Link to your project's public GitHub respository>](https://github.com/CarlosRM07/Final-Project-lab-Hitscan.git)
+[<Link to my project's public GitHub repository>](https://github.com/CarlosRM07/Final-Project-lab-Hitscan.git)
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
+My final project for the class I have decided for it to be a interactive game based on aim with your mouse, where you will be able to shoot randomized objects that will be appearing around the screen. This project is relevant to arts and media because shooter games have been in gaming history for a long time, and I will be attempting to implement some of my drawings into the character and maybe some of the targets as well.
 
 ## Features
 - Feature 1
